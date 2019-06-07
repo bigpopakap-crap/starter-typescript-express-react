@@ -24,4 +24,3 @@
 - Build-time variables like "app name" and stuff
 - Performance testing for page load times
 - Analytics library (Google Analytics, Mixpanel, Segment, etc.)
--
