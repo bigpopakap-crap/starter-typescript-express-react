@@ -11,6 +11,8 @@
 
 # Not included/Yet to add
 
+- Absolute path imports
+- Limit imports (server shouldn't look at client, client shouldn't look at server)
 - Testing infrastructure, including Typescript syntax checking, build errors, linting
 - Code coverage for tests
 - Linting infrastructure for JS, accessibility, styles, templates, i18n, package.json ordering
