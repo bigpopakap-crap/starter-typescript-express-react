@@ -1,6 +1,6 @@
 # Starter kit
 
-# Includes
+## Includes
 
 - Typescript
 - React frontend
@@ -9,7 +9,7 @@
 - "shared" directory for client/server shared code
 - Restyped for end-to-end typed REST APIs
 
-# Not included/Yet to add
+## Not included/Yet to add
 
 - Absolute path imports
 - Limit imports (server shouldn't look at client, client shouldn't look at server)
